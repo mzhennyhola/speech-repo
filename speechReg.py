@@ -3,6 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 import time
 import pandas as pd
+import pyaudio
 
 # Create a function for Speech Trancription
 def transcribe_speech():
