@@ -1,7 +1,4 @@
-
-
-
-nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+pandas==1.5.3
 
 PyAudio==0.2.13
 
